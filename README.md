@@ -40,17 +40,7 @@
 🔹 [**Musical World**](#) – A music platform for singers & listeners (React, Node.js, MySQL)  
 🔹 [**Diabetic Retinopathy Detection**](#) – CNN model + Django for medical image classification  
 🔹 [**Phishing & Quishing Detection**](#) – Machine Learning + Streamlit for URL & QR code analysis  
-🔹 [**WE CHARITY APP**](#) – A charity web platform (HTML, CSS, JS, Node.js, MongoDB)  
-
-
-
----
-
-## 📊 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohithrshetty&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohithrshetty&theme=radical)
+🔹 [**WE CHARITY APP**](#) – A charity web platform (HTML, CSS, JS, Node.js, MongoDB) 
 
 ---
 
