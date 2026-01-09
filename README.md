@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 👨‍💻 Exploring **Full-Stack Development** with **React, Node.js, Express, MongoDB, MySQL**
-- 🤝 Open to collaborations on **open-source projects & research work**
+
 
 ---
 
